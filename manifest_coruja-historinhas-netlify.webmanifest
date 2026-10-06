@@ -1,0 +1,43 @@
+{
+ "name": "Coruja — Historinhas",
+ "short_name": "Historinhas",
+ "description": "60 historinhas com perguntas de interpretação de texto, para crianças de 3 a 12 anos — offline. Esforço Vence 🦉",
+ "id": "./",
+ "start_url": "./",
+ "scope": "./",
+ "display": "fullscreen",
+ "orientation": "landscape",
+ "background_color": "#c4f1ff",
+ "theme_color": "#c4f1ff",
+ "lang": "pt-BR",
+ "categories": [
+  "education",
+  "books",
+  "kids"
+ ],
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ],
+ "display_override": [
+  "fullscreen",
+  "standalone",
+  "minimal-ui"
+ ]
+}

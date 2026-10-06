@@ -1,0 +1,38 @@
+{
+ "name": "Esforço Vence — Alfabetização",
+ "short_name": "Esforço Vence",
+ "description": "854 sílabas e 2073 palavras para treinar, 2039 frases para ler, tudo com esforço e alegria — offline. Escola São Pedro 🦉",
+ "id": "./",
+ "start_url": "./",
+ "scope": "./",
+ "display": "fullscreen",
+ "display_override": [
+  "fullscreen",
+  "standalone",
+  "minimal-ui"
+ ],
+ "orientation": "landscape",
+ "background_color": "#c4f1ff",
+ "theme_color": "#c4f1ff",
+ "lang": "pt-BR",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}

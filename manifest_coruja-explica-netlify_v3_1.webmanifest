@@ -1,0 +1,19 @@
+{
+  "name": "Coruja Explica",
+  "short_name": "Coruja Explica",
+  "description": "Textos que explicam o mundo, para ler junto com a criança: dicionário por toque, perguntas de interpretação e histórico de cada leitura. Funciona sem internet. Escola São Pedro 🦉",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#f6f1e6",
+  "theme_color": "#f0a030",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
